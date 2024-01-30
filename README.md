@@ -1,10 +1,4 @@
-<div align-items="center">
-
-<h2>Ciallo～ (∠·ω< )⌒★</h2>
-
-</diverse>
-
-<p align="center">
+<h2 align="center">Ciallo～ (∠·ω< )⌒★</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=PolarisSdesu&count_private=true&show_icons=true&theme=dark" width="450"/>
 
