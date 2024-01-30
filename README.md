@@ -1,4 +1,4 @@
-<p align="center">
+<p align-items="center">
 
 <p>Ciallo～ (∠·ω< )⌒★</p>
 
