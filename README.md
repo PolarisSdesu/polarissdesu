@@ -1,8 +1,8 @@
-<p align-items="center">
+<div align-items="center">
 
 <h2>Ciallo～ (∠·ω< )⌒★</h2>
 
-</p>
+</diverse>
 
 <p align="center">
 
