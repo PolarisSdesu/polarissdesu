@@ -12,4 +12,4 @@
 #### Other info
 - Social Links: [links.polarissmusic.cn](https://links.polarissmusic.cn)
 - My Blog: [polarissmusic.cn](https://polarissmusic.cn)
-- Messaging: Use my Email to the left, Also connect with me on [Twitter(X)](https://twitter.com/PolarisSdesu).
+- Messaging: Use my Email to the left. Also, connect with me on [Twitter(X)](https://twitter.com/PolarisSdesu).
