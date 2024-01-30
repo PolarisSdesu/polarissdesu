@@ -1,6 +1,6 @@
 <p align-items="center">
 
-<p>Ciallo～ (∠·ω< )⌒★</p>
+<h2>Ciallo～ (∠·ω< )⌒★</h2>
 
 </p>
 
