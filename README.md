@@ -22,4 +22,4 @@
 #### Other info
 - Social Links: [links.polarissdesu.cn](https://links.polarissdesu.cn)
 - My Blog: [polarissdesu.cn](https://polarissdesu.cn)
-- Messaging: Use my Email to the left. Also, connect with me on [Twitter(X)](https://twitter.com/PolarisSdesu) and [Bluesky](https://bsky.app).
+- Messaging: Use my Email to the left. Also, connect with me on [Twitter(X)](https://twitter.com/PolarisSdesu).
